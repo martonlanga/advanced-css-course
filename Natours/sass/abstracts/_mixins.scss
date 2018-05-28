@@ -22,6 +22,8 @@
 
   REM IS NOT AFFECTED BY DEFAULT FONT-SIZE
   16px is browser default: 1em = 16px
+
+  ORDER: Base + typography > general layout + grid > page layout > components
  */
 @mixin respond($breakpoint) {
   @if $breakpoint == phone {

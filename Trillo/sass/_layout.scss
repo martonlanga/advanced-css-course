@@ -11,6 +11,11 @@
   height: 7rem;
   background-color: #fff;
   border-bottom: var(--color-grey-light-2);
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.4rem;
 }
 
 .content {
@@ -20,9 +25,14 @@
 .sidebar {
   background-color: var(--color-grey-dark-1);
   flex: 0 0 18%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .hotel-view {
-  background-color: orangered;
+  background-color: var(--color-grey-light-1);
   flex: 1;
+  height: 80rem;
 }

@@ -6,7 +6,7 @@
   }
 
   &__content {
-    $color-grey-light-1;
+    background-color: $color-grey-light-1;
 
     grid-column: col-start 5 / full-end;
   }

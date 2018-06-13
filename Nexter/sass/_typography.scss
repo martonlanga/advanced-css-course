@@ -5,11 +5,11 @@
 }
 
 .heading-1 {
-  @extend heading;
+  @extend %heading;
 }
 
 .heading-2 {
-  @extend heading;
+  @extend %heading;
 
   font-size: 4rem;
   font-style: italic;
@@ -23,7 +23,7 @@
 }
 
 .heading-3 {
-  @extend heading;
+  @extend %heading;
 
   font-size: 1.6rem;
   color: $color-primary;
@@ -31,7 +31,7 @@
 }
 
 .heading-4 {
-  @extend heading;
+  @extend %heading;
   font-size: 1.9rem;
 
   &--light {

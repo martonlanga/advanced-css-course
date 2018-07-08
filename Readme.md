@@ -10,7 +10,7 @@
  * Sass 7 - 1 pattern
  * BEM methodology
  * How to support older browsers
- * How to make website responsive
+ * How to make websites responsive
  * Using NPM scripts
  * CSS Animations
 

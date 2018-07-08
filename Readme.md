@@ -1,4 +1,4 @@
-# Natours | [Demo](http://martonlanga/github.io/natours)
+# Natours | [Demo](http://martonlanga.github.io/natours)
 
 ![Natours Gif](https://github.com/martonlanga/advanced-css-course/blob/master/gifs/Natours.gif)
 
@@ -16,7 +16,7 @@
 
 ___
 
- # Trillo | [Demo](http://martonlanga/github.io/trillo)
+ # Trillo | [Demo](http://martonlanga.github.io/trillo)
 
  ![Trillo Gif](https://github.com/martonlanga/advanced-css-course/blob/master/gifs/Trillo.gif)
 
@@ -29,7 +29,7 @@ ___
 
 ___
 
- # Nexter | [Demo](http://martonlanga/github.io/nexter)
+ # Nexter | [Demo](http://martonlanga.github.io/nexter)
 
  ![Nexter Gif](https://github.com/martonlanga/advanced-css-course/blob/master/gifs/Nexter.gif)
 
